@@ -1,4 +1,4 @@
-### Hi, I am ERDEM ERBABA
+### Hi, I am Erdem
 
 
 - 🔭 I’m currently working on Mechatronics Engineering
