@@ -1,16 +1,16 @@
-# I am Erdem
+# About
 
 
-<p align="center">
+<p align="left">
 I am a mechatronics engineer working on robotics, production and programming, having a purpose of making 
 a beneficial impact in these sectors. I am involved in organizations and initiatives in these areas.
 At the same time, I collaborate with communities to make a contribution to the people involved.
 </p>
-<p align="center">
+<p align="left">
  erdemerbaba@gmail.com
 </p>
 
-## Project Themas
+## Project Themes
  
 ```text
 Single Page Apps         API Projects         GUI Program
