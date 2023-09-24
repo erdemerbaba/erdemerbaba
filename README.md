@@ -10,6 +10,21 @@ At the same time, I collaborate with communities to make a contribution to the p
  erdemerbaba@gmail.com
 </p>
 
+## Project Themas
+ 
+```text
+Single Page Apps         API Projects         GUI Program
+IOT Protocols            Computer Vision      Machine Learning
+```
+
+## Program Abilities
+ 
+```text
+IntelliJ          VS Code          Spyder          Anaconda
+Postman           Mobaxterm        Studio 3T       Matlab
+Arduino IDE       MS Office        Tia Portal      Proteus
+Unity             Solidworks       Illustrator
+```
 ## Qualifications
  
 ```text
@@ -50,38 +65,6 @@ One page App
 
 #Mobil
 Android
-```
-
-## Project Themas
- 
-```text
-Single Page App
-API Projects
-GUI Program
-IOT Protocols
-Computer Vision
-Machine Learning
-
-```
-
-## Program Abilities
- 
-```text
-IntelliJ
-VS Code
-Spyder
-Anaconda
-Postman
-Mobaxterm
-Studio 3T
-Matlab
-Arduino IDE
-MS Office Programs
-Tia Portal
-Proteus
-Unity
-Solidworks
-Illustrator
 ```
 
 
