@@ -1,16 +1,11 @@
 ### Hi, I am Erdem
 
 
-- 🔭 I’m currently working on Mechatronics Engineering
+- I am a mechatronics engineer working on robotics, production and programming, having a purpose of making 
+a beneficial impact in these sectors. I am involved in organizations and initiatives in these areas.
+At the same time, I collaborate with communities to make a contribution to the people involved.
  
-- 🌱 I’m currently learning autonomy and robotics
- 
-- 👯 Robotics - dealing with autonomy and automation; to make a beneficial impact in these sectors
-I am an aimer. I am involved in organizations and initiatives in these areas.
-At the same time, collaborating with communities to make a contribution to the people involved,
-I produce content for social media whenever I find time for what I do.
- 
-- 💬 text me if you want; erdemerbaba@gmail.com
+- 💬 email: erdemerbaba@gmail.com
  
 - 📫 Social Medias
 
