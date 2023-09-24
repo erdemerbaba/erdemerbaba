@@ -28,43 +28,21 @@ Unity             Solidworks       Illustrator
 ## Qualifications
  
 ```text
-#Language
-Python
-Java
-JavaScript
-CSS
-TypeScript
+#Language:       Python          Java         JavaScript      CSS      TypeScript
 
-#Backend
-Spring Boot
-Django
-Flask
+#Backend:        Spring Boot     Django       Flask
 
-#Frontend
-Angular
-Vue
+#Frontend:       Angular         Vue
 
-#System
-Docker
-Jenkins
-Ansible
+#System:         Docker          Jenkins      Ansible
 
-#Database
-MongoDB
-MySQL
+#Database:       MongoDB         MySQL
 
-#Protocols
-IOT
-MQTT
-I2C
-SPI
+#Protocols:      IOT             MQTT          I2C            SPI
 
-#Architecture
-Monolithic
-One page App
+#Architecture:   Monolithic      OnePageApp  
 
-#Mobil
-Android
+#Mobil:          Android
 ```
 
 
