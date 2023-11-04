@@ -20,31 +20,31 @@ IOT Protocols            Computer Vision      Embedded
 ## Program Abilities
  
 ```text
-IntelliJ          VS Code          Spyder          Anaconda
-Postman           Mobaxterm        Studio 3T       Matlab
-Arduino IDE       MS Office        Tia Portal      Proteus
-Unity             Solidworks       Illustrator
+IntelliJ          VS Code          Spyder          Pycharm
+Anaconda          Postman          Mobaxterm       Studio 3T
+Matlab            Arduino IDE      MS Office       Tia Portal
+Proteus           Unity            Illustrator
 ```
 ## Qualifications
  
 ```text
-#Language:       Python          Java         JavaScript      CSS      TypeScript
+#Language:       Python          Java           JavaScript      CSS      TypeScript
 
-#Backend:        Spring Boot     Django       Flask
+#Backend:        Spring Boot     Django         Flask
 
-#Frontend:       Angular         Vue          React
+#Frontend:       Angular         Vue            React
 
-#System:         Docker          Jenkins      Kubernetes      Swagger  Prometheus
+#System:         Docker          Jenkins        Kubernetes      Swagger  Prometheus
 
 #Database:       MongoDB         MySQL
 
-#Protocols:      IOT             MQTT          I2C            SPI
+#Protocols:      IOT             MQTT            I2C            SPI
 
 #Architecture:   Monolithic      Microservices  
 
-#Mobil:          Kotlin
+#Embedded:       Atmel           ESP32           ARM
 
-#Embedded:       Atmel          ESP32          ARM
+#Mobil:          Kotlin
 ```
 
 
