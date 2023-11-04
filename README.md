@@ -14,7 +14,7 @@ At the same time, I collaborate with communities to make a contribution to the p
  
 ```text
 Single Page Apps         API Projects         GUI Program
-IOT Protocols            Computer Vision      Machine Learning
+IOT Protocols            Computer Vision      Embedded
 ```
 
 ## Program Abilities
@@ -40,9 +40,11 @@ Unity             Solidworks       Illustrator
 
 #Protocols:      IOT             MQTT          I2C            SPI
 
-#Architecture:   Monolithic      Microservices OnePageApps  
+#Architecture:   Monolithic      Microservices  
 
-#Mobil:          Android
+#Mobil:          Kotlin
+
+#Embedded:       Atmel          ESP32          ARM
 ```
 
 
