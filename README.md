@@ -32,15 +32,15 @@ Unity             Solidworks       Illustrator
 
 #Backend:        Spring Boot     Django       Flask
 
-#Frontend:       Angular         Vue
+#Frontend:       Angular         Vue          React
 
-#System:         Docker          Jenkins      Ansible
+#System:         Docker          Jenkins      Kubernetes      Swagger  Prometheus
 
 #Database:       MongoDB         MySQL
 
 #Protocols:      IOT             MQTT          I2C            SPI
 
-#Architecture:   Monolithic      OnePageApp  
+#Architecture:   Monolithic      Microservices OnePageApps  
 
 #Mobil:          Android
 ```
