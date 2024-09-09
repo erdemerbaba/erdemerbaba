@@ -13,8 +13,9 @@ At the same time, I collaborate with communities to make a contribution to the p
 ## Project Themes
  
 ```text
-Single Page Apps         API Projects         GUI Program
-IOT Protocols            Computer Vision      Embedded
+Web Apps            Desktop Apps         Mobile Apps
+API Projects        GUI Program          Robotics
+IOT Protocols       Computer Vision      Embedded
 ```
 
 ## Program Abilities
@@ -23,7 +24,7 @@ IOT Protocols            Computer Vision      Embedded
 IntelliJ          VS Code          Spyder          Pycharm
 Anaconda          Postman          Mobaxterm       Studio 3T
 Matlab            Arduino IDE      MS Office       Tia Portal
-Proteus           Unity            Illustrator
+Proteus           Unity            Illustrator     Pspice
 ```
 ## Qualifications
  
