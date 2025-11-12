@@ -2,7 +2,7 @@
 
 
 <p align="left">
-I am Sn. Msc. devops engineer working on system, product and automation; having a purpose of making 
+I am Msc. devops engineer working on system, product and automation; having a purpose of making 
 a beneficial impact in these sectors. I am involved in organizations and initiatives in these areas.
 At the same time, I collaborate with communities to make a contribution to the people involved.
 </p>
